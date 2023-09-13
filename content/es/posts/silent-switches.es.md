@@ -2,7 +2,7 @@
 title: "Teclados mecánicos silenciosos: it's the switches, stupid!"
 date: 2023-09-11T02:13:18+02:00
 tags: ['interruptores', 'silencio']
-draft: true
+draft: false
 ---
 
 ## Introducción
