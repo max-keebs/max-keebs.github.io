@@ -1,0 +1,91 @@
+# baseURL = 'https://max-keebs.github.io/'
+baseURL = '/'
+languageCode = 'en-us'
+title = 'MaxKeebs'
+theme = 'terminal'
+paginate = 10
+
+DefaultContentLanguage = "es"
+DefaultContentLanguageInSubdir = true
+
+[params]
+  dateform        = "2 Jan, 2006"
+  dateformShort   = "2 Jan"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02T15:04"
+
+  showLanguageSelector = true
+  centerTheme = true
+
+  readingTime = true
+  Toc = true
+
+[taxonomies]
+  category = "blog"
+  tag      = "tags"
+
+[languages]
+  [languages.en]
+    languagename = "English"
+    contentDir = "content/en"
+    title = "MaxKeebs"
+    weight = 2
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+  [languages.en.params]
+    owner = "MaxKeebs"
+    subtitle = "Keyboard stuff"
+    keywords = "keyboard, mechanical"
+
+  [languages.en.params.logo]
+    logoText = "MaxKeebs"
+    logoHomeLink = "/"
+
+  [languages.en.menu]
+    [[languages.en.menu.main]]
+      name = "Blog"
+      url = "/en/posts"
+      weight = 1
+
+    [[languages.en.menu.main]]
+      name = "Tags"
+      url = "/en/tags"
+      weight = 2
+
+    [[languages.en.menu.main]]
+      name = "About"
+      url = "/en/about"
+      weight = 3
+
+  [languages.es]
+    languagename = "Spanish"
+    contentDir = "content/es"
+    title = "MaxKeebs"
+    weight = 1
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/deed.es_ES" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+  [languages.es.params]
+    owner = "MaxKeebs"
+    subtitle = "Cosas de teclados"
+    keywords = "teclado, mecánico"
+
+  [languages.es.params.logo]
+    logoText = "MaxKeebs"
+    logoHomeLink = "/"
+
+  [languages.es.menu]
+
+    [[languages.es.menu.main]]
+      name = "Blog"
+      url = "/es/posts"
+      weight = 1
+
+    [[languages.es.menu.main]]
+        name = "Tags"
+        url = "/es/tags"
+        weight = 2
+
+    [[languages.es.menu.main]]
+        name = "Acerca de"
+        url = "/es/acercade"
+        weight = 3
