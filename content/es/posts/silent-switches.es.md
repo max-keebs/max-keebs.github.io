@@ -46,17 +46,19 @@ Para presupuestos más ajustados, la respuesta más corta es "interruptores Oute
 
 A día de hoy (2023) es posible encontrar interruptores silenciosos Outemu en sitios como Aliexpress en un rango de precio entre los 20 y 30 céntimos de €, dependiendo de modelo, cantidad y ofertas. Basándome en mi experiencia, estos son algunos de los modelos que recomiendo tener en cuenta:
 
-- Outemu Silent Cream Yellow, táctil
-- Outemu Tom Silent
+- Outemu Silent Cream Yellow, táctil. Es un interruptor bien construido, sin holgura, relativamente suave y muy muy silencioso. La dureza es intermedia y el *bump* marcado y relativamente redondeado. Parece ser que Outemu ha aplicado muchas de las lecciones aprendidas fabricando los Gazzew a sus nueva línea de interruptores
 
-- Outemu Silent Ocean
+- Outemu Tom Silent, táctil. Este modelo pertenece a una gama distinta a la de los Outemu Cream. El tacto es más parecido a los táctiles *clásicos* como los MX Brown: el muelle es relativamente ligero, el *bump* está a mitad de pulsación y la tactilidad no es muy marcada. La construcción es adecuada, pero debido al diseño de la parte superior hay algunas colisiones y el interruptor no es tan silencioso como los Outemu Silent Cream Yellow ni tampoco tan suave. Lo recomendaría a los que busquen una versión *mejorada* y casi silenciosa de los Cherry MX Brown. Como nota adicional, son **muy** difíciles de abrir, no me atrevería a lubricarlos a mano
 
-- Bonus: Outemu Silent Yellow Jade, táctil. No he probado personalmente este interruptor pero he leído que es básicamente un Silent Cream Yellow con una carcasa distinta, en este caso de material translúcido.
+- Outemu Silent Ocean, lineal. Los interruptores lineales son un poco más complicados ya que la pulsación de la tecla no tiene un *bump* que pueda enmascarar cualquier sensación de acolchado producida por el material usado para amortiguar el sonido. Los Silent Ocean pertenecen a la misma línea de los Tom, por lo que comparten una construcción muy similar. Si bien no es un lineal perfecto, lo compensa con la baja sonoridad. Sólo lo recomendaría para alguien que necesite un interruptor lineal donde la baja sonoridad sea el principal requisito y tenga un presupuesto ajustado
+
+- Bonus: Outemu Silent Yellow Jade, táctil. No he probado personalmente este interruptor pero he leído que es básicamente un Silent Cream Yellow con una carcasa distinta, en este caso de material translúcido
 
 A continuación un par de modelos de interruptor bastante conocidos pero que personalmente no recomiendo a menos que sepas exactamente qué estás comprando. Estos modelos son:
 
-- Outemu Silent Peach[^1]
-- Outemu Silent Lemon
+- Outemu Silent Peach, lineal. Tanto este interruptor como el Silent Lemon son modelos anteriores a todos los Outemus enumerados más arriba, esto significa que estos modelos tienen algunos defectos que han sido solucionados en otros más recientes. En el caso del Silent Peach es un interruptor que muestra mucha más holgura que todos los otros Outemu silenciosos que he comentado. Tampoco destaca por su suavidad, por lo que la única característica que lo salva es su baja sonoridad. No estoy sólo en mi pobre opinión sobre el Outemu Silent Peach, como se puede leer en la mini-reseña de ThereminGoat [^1]
+
+- Outemu Silent Lemon, táctil. Comparte generación con el Outemu Silent Peach y también muchas de sus deficiencias. En el caso del Lemon, aparte de la holgura excesiva del vástago, el *bump* es cuanto menos ... *extraño*. La sensación que da al pulsar es la de un interruptor "crujiente", además el *bump* parece doble. En general es un interruptor cuanto menos peculiar, sólo lo recomendaría a alguien que lo haya probado y esté seguro que es exactamente lo que busca.
 
 ## TL;DR
 
